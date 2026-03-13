@@ -9,7 +9,7 @@
 
   **Clear and Concise** Definitions 
 
-  ***One-Click*** Copy of the Term
+  Copy Term with ***One-Click***
 
 |  **100% In-Line Ready** - (*in italics*) 
 
