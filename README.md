@@ -1,13 +1,23 @@
-**InText™ SE** 
+**InText™ SE —** Dictionary of Latin Terms and Maxims in South African Law for Windows®
+
+<img width="711" height="449" alt="Splash" src="https://github.com/user-attachments/assets/0eb860d6-00d7-4bdd-b050-c7cf4d670554" />
+
+**FEATURES—**
 
 
-**InText™**  ***Student Edition***   |   **Latin Terms and Maxims in South African Law—** 
+  Search **Over 170+** Terms and Maxims
 
-|  Search **Over 170+** Terms and Maxims with clear and concise definitions 
+  **Clear and Concise** Definitions 
 
-|   ***One-Click*** copy term to paste into your word processor 
+  ***One-Click*** Copy of Terms 
 
-|  **100%** In-Line ready (*in italics*) 
+|  **100% In-Line Ready** - (*in italics*) 
+
+
+![Header2](https://github.com/user-attachments/assets/1ae0c8d2-bc78-4e91-a994-f8e917428c30)
+
+
+
 
 
 
