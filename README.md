@@ -5,9 +5,9 @@
 
 |  Search **Over 170+** Terms and Maxims with clear and concise definitions 
 
-|  Copy Terms with ***one-click*** to paste into your word processor 
+|   ***One-Click*** copy term to paste into your word processor 
 
-|  Terms are 100% In-Line ready (*in italics*) 
+|  **100%** In-Line ready (*in italics*) 
 
 
 
