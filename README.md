@@ -1,24 +1,52 @@
+<img width="711" height="227" alt="install-layouy" src="https://github.com/user-attachments/assets/931ed9c5-fb1a-44b6-bcf5-57cd58f75635" />
+
+
+
+
+
 **InText™ SE —** Dictionary of Latin Terms and Maxims in South African Law for Windows®
 
-<img width="711" height="449" alt="Splash" src="https://github.com/user-attachments/assets/0eb860d6-00d7-4bdd-b050-c7cf4d670554" />
+InText™ SE empowers legal students and practitioners by placing **over 170+** ***Latin Terms and Maxims*** at your fingertips. With ***Clear and Concise Definitions***, InText™ SE eliminates wasted time searching for correct spellings or meanings, allowing users to simply Search, ***Copy and Paste in Seconds*** that are ***100% In-Line Ready*** to **Add Terms** ***in Situ***—
+
+
+|
+
+
+![Features](https://github.com/user-attachments/assets/bbd970f8-87ae-43de-bbef-e29b60138ff4)
 
 
 
-![Header3](https://github.com/user-attachments/assets/a4f5d11e-74b2-4f44-b855-ae2334a159d9)
+Its compact, side‑docked design ensures seamless integration into drafting workflows, making it a 100% in‑line ready companion. By streamlining access to authoritative terminology, *InText™ SE* saves effort, enhances accuracy, and supports professional legal writing.
+
+|
 
 
-![Header3](https://github.com/user-attachments/assets/1ccb6795-dae8-49d9-b168-b4a003f083ea)
-
-**FEATURES—**
 
 
-  Search **Over 170+** Terms and Maxims
+![Feature-Docked](https://github.com/user-attachments/assets/6cffd073-c3d4-4344-8bf2-2f786d41bb31)
 
-  **Clear and Concise** Definitions 
 
-  Copy Terms with ***One-Click***
 
-|  **100% In-Line Ready** - (*in italics*) 
+
+**InText™ SE** makes every Latin term ***100% In‑Line Ready***, pre-formatted in italics and lower case to add your term *in situ*. Draft with confidence—search, copy, and paste instantly without the hassle of manual formatting, saving valuable time in legal writing.
+
+|
+
+
+
+
+![Feature-Add-In](https://github.com/user-attachments/assets/e9a024c4-d7cc-4940-a487-4ebe01a6d4b4)
+
+
+
+*** ***
+
+
+
+
+
+
+
 
 
 
