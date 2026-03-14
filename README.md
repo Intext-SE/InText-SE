@@ -37,7 +37,9 @@ Its compact, side‑docked design ensures seamless integration into drafting wor
 
 
 
-![Feature-Add-In](https://github.com/user-attachments/assets/e9a024c4-d7cc-4940-a487-4ebe01a6d4b4)
+![Feature-Add-In](https://github.com/user-attachments/assets/4afe2f83-20d9-4322-8a64-0d0e9fb1a03c)
+
+
 
 
 
