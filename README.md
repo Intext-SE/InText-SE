@@ -20,9 +20,7 @@ InText™ SE empowers legal students and practitioners by placing **over 170+** 
 
 |
 
-
-
-
+![Install Layout](https://i.ibb.co/9KbqNM6/Main-Display.jpg)
 
 
 
