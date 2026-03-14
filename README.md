@@ -52,9 +52,9 @@ Its compact, side‑docked design ensures seamless integration into drafting wor
 
 #
 
-InText™ SE Copyright © 2026. All rights reserved.
+**InText™ SE** Copyright © 2026. All rights reserved.
 
-InText™ SE is licensed for personal and educational use ONLY.
+**InText™ SE** is licensed for personal and educational use ONLY.
 
 
 
