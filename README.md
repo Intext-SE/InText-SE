@@ -57,6 +57,8 @@ Its compact, side‑docked design ensures seamless integration into drafting wor
 
 **InText™ SE** is licensed for personal and educational use ONLY.
 
+#
+**Download (for Windows® 64‑bit)** 
 
 
 
