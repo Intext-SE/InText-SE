@@ -12,6 +12,7 @@ InText™ SE empowers legal students and practitioners by placing **over 170+** 
 |
 
 
+![Features](https://github.com/user-attachments/assets/b6865cc8-d5cc-4afb-a53a-9aa5f853ec2b)
 
 
 
@@ -23,7 +24,8 @@ Its compact, side‑docked design ensures seamless integration into drafting wor
 
 
 
-![Feature-Docked](https://github.com/user-attachments/assets/6cffd073-c3d4-4344-8bf2-2f786d41bb31)
+![Feature-Docked](https://github.com/user-attachments/assets/d353014d-8a71-4080-89de-9d56c9995c0a)
+
 
 
 
