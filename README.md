@@ -22,7 +22,7 @@ InText™ SE empowers legal students and practitioners by placing **over 170+** 
 
 
 
-![Features](https://github.com/user-attachments/assets/53a7d5c7-49d4-48a2-8513-a226ce537213)
+
 
 
 
