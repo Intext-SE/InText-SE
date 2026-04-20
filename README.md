@@ -10,10 +10,12 @@ Dictionary of Latin Terms and Maxims in South African law for Windows®
 
 #
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=InText-SE.InText-SE&color=%23D4292C)
+![Hits](https://hits.sh/github.com/InText-SE/InText-SE.svg?label=Hits&color=white)
 
 
-InText™ SE  |  Copyright © 2026. All Rights Reserved
+
+
+**InText™ SE**  &nbsp;|&nbsp; Copyright © 2026. All Rights Reserved
 
 
 
