@@ -7,7 +7,10 @@ Dictionary of Latin Terms and Maxims in South African law for Windows®
 
 <img width="1366" height="768" alt="GitHub-Head" src="https://github.com/user-attachments/assets/4e6f476f-c8cc-4777-83dc-86f925543666" />
 
+
 #
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=InText-SE.InText-SE&color=#D4292C)
+
 
 InText™ SE  |  Copyright © 2026. All Rights Reserved
 
