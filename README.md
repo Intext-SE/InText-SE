@@ -9,7 +9,7 @@ Dictionary of Latin Terms and Maxims in South African law for Windows®
 
 
 #
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=InText-SE.InText-SE&color=white)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=InText-SE.InText-SE&color=grey)
 
 
 InText™ SE  |  Copyright © 2026. All Rights Reserved
